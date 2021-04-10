@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/sabarina/Desktop/eclipse_workspace/sample_framework_v3/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
